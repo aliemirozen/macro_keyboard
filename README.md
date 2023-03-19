@@ -10,6 +10,7 @@ Kodunuzu Raspberry'ye attıktan sonra eğer çalışıp çalışmadığını den
 
 Bu koddaki bulunan giriş pinleri aşağıda verilen fotoğraftaki şemaya göre tasarlanmıştır. Dolayısıyla siz farklı giriş pinleri kullandıysanız kod üzerinde bağladığınız pinlere göre değişiklik yapmalısınız. Ben 6 tuşlu küçük bir klavye olduğundan GP0, GP2, GP4, GP6, GP8 ve GP10 pinlerini tercih ettim. Siz de istediğiniz pinleri kullanabilirsiniz. 
 
+<img width="989" alt="Ekran Resmi 2023-03-19 15 33 21" src="https://user-images.githubusercontent.com/115935357/226204745-8344ba5a-8e6f-4fa7-a009-3a95f26aa8d0.png">
 
 <img width="607" alt="Ekran Resmi 2023-03-19 15 17 30" src="https://user-images.githubusercontent.com/115935357/226174585-50af9c48-73fe-4787-9998-265f9eb250dd.png">
 
