@@ -25,32 +25,32 @@ while True:
     if key[0].value:
         keyboard.send(Keycode.GUI, Keycode.C)
         time.sleep(0.1)
-        #Kopyalama komutu
+        #Kopyalama Komutu
         
     if key[2].value:
         keyboard.send(Keycode.GUI, Keycode.V)
         time.sleep(0.1)
-        #Yapıştırma komutu
+        #Yapıştırma Komutu
         
     if key[4].value:
         keyboard.send(Keycode.GUI, Keycode.X)
         time.sleep(0.3)
-        #Kesme komutu
+        #Kesme Komutu
 
     if key[6].value:
         keyboard.send(Keycode.GUI, Keycode.K, Keycode.C)
         time.sleep(0.1)
-        #Visual Studio da seçilenleri yorum satırı yapma komutu
+        #Visual Studio da Seçilenleri Yorum Satırı Yapma Komutu
 
     if key[8].value:
         keyboard.send(Keycode.GUI, Keycode.K, Keycode.U)
         time.sleep(0.1)
-        #Visual Studio da seçilen yorum satırlarını normal satırlara çevirme komutu
+        #Visual Studio da Seçilen Yorum Satırlarını Normal Satırlara Çevirme Komutu
         
     if key[10].value:
         keyboard.send(Keycode.GUI, Keycode.Z)
         time.sleep(0.3)
-        #Geri alma komutu
+        #Geri Alma Komutu
         
     time.sleep(0.1)
 
