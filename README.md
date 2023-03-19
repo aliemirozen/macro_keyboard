@@ -1,6 +1,6 @@
 # macro_keyboard
  
-   Bu projemde Raspberry Pi Pico kullanarak altı tuşlu programlanabilir makro klavye yaptım. Gerekli tüm dosyalar repo nun içerisinde mevcuttur. 
+Bu projemde Raspberry Pi Pico kullanarak altı tuşlu programlanabilir makro klavye yaptım. Gerekli tüm dosyalar repo nun içerisinde mevcuttur. 
 
 İlk olarak Raspberry Pi Pico'yu üzerindeki "BOOTSEL" tuşuna basılı tutarak bilgisayara bağlayın. Bilgisayarınıza bağladığınızda tıpkı bir USB bellek gibi açılacaktır. Açılan pencerenin içerisine repo'da bulunan "Gerekli Dosyalar" kısmındaki "adafruit-circuitpython-raspberry_pi_pico-tr-7.3.3.uf2" dosyasını atmanız gerekmektedir. Bu işlemi yaptıktan sonra Raspberry kendisini kapatıp tekrar açacaktır ve bunun gerçekleşmesi için bağlantıyı kopartmamanız gerekmektedir. Bu işlemden sonra aygıtınızın ismi "CIRCUITPY" olacaktır. Açılan ekrandaki "lib" klasörüne repo'da bulunan "Gerekli Dosyalar" kısmındaki "adafruit_hid" klasörünü yapıştırın. Böylece kod için gerekli tüm kütüphaneler hazır olacaktır. 
 
@@ -14,7 +14,7 @@ Bu koddaki bulunan giriş pinleri aşağıda verilen fotoğraftaki şemaya göre
 <img width="607" alt="Ekran Resmi 2023-03-19 15 17 30" src="https://user-images.githubusercontent.com/115935357/226174585-50af9c48-73fe-4787-9998-265f9eb250dd.png">
 
 
-Source code for adafruit_hid.keycode: https://docs.circuitpython.org/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
+">" Source code for adafruit_hid.keycode: https://docs.circuitpython.org/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
 
 
 Thonny IDE’yi indirebileceğiniz link: https://thonny.org 
