@@ -9,4 +9,5 @@
 <img width="607" alt="Ekran Resmi 2023-03-19 15 17 30" src="https://user-images.githubusercontent.com/115935357/226174585-50af9c48-73fe-4787-9998-265f9eb250dd.png">
 
 
+Source code for adafruit_hid.keycode: https://docs.circuitpython.org/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
 Thonny IDE’yi indirebileceğiniz link: https://thonny.org 
