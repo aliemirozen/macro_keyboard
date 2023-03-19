@@ -10,4 +10,6 @@
 
 
 Source code for adafruit_hid.keycode: https://docs.circuitpython.org/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
+
+
 Thonny IDE’yi indirebileceğiniz link: https://thonny.org 
